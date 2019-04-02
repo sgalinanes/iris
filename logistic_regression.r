@@ -1,4 +1,4 @@
-source('machine-learning/iris/cost_function.r')
+source('R/iris/cost_function.r')
 
 trainData <- function(X, Y, class)
 {
@@ -25,3 +25,4 @@ trainData <- function(X, Y, class)
   
   
 }
+
